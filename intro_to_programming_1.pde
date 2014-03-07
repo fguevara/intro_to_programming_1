@@ -1,4 +1,6 @@
-Planet earth;
+//Francie
+
+Planet earth; 
 Planet sun;
 
 ArrayList<Meteor> mets;
